@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Neon Nights",
+    "description": "Cyberpunk 2077 2.5 + Phantom Liberty modlist: visuals, clothing, apartments, gameplay and immersion, third-person combat.",
+    "author": "Funky",
+    "maintainers": [
+      "github/funkyplaytv"
+    ],
+    "game": "cyberpunk2077",
+    "tags": [
+      "Vanilla+",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/funkyplaytv/neon-nights-modlist/main/neon_nights_cover.jpg",
+      "readme": "https://github.com/funkyplaytv/neon-nights-modlist#readme",
+      "download": "https://authored-files.wabbajack.org/NeonNights-Gallery-0.1.7.wabbajack_28705f33-d86f-4b55-ba33-1c75ae9a7a42",
+      "machineURL": "NeonNights",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "jnF0y5kqiwg=",
+      "Size": 6130395,
+      "NumberOfArchives": 392,
+      "SizeOfArchives": 17717250664,
+      "NumberOfInstalledFiles": 22191,
+      "SizeOfInstalledFiles": 19492002619
+    },
+    "version": "0.1.7"
+  }
+]
